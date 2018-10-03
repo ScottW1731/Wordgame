@@ -15,3 +15,21 @@ header {
     margin: 0 auto;
     width: 80%;
 }
+
+.correct {
+    border: 3px solid blue;
+    font-size: 20px;
+    text-align: center;
+    height: 150px;
+    margin: 0 auto;
+    width: 80%;
+}
+
+.incorrect {
+    border: 3px solid blue;
+    font-size: 20px;
+    text-align: center;
+    height: 150px;
+    margin: 0 auto;
+    width: 80%;
+}
